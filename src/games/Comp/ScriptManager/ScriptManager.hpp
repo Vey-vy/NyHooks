@@ -1,5 +1,5 @@
 #pragma once
-#include "games/Ny.hpp"
+#include "Games/Ny.hpp"
 #include "Script.hpp"
 #include "Util/VectorMap.hpp"
 

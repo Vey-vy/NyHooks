@@ -1,5 +1,5 @@
 #include "script.hpp"
-#include "games/Ny.hpp"
+#include "Games/Ny.hpp"
 #include "ScriptManager.hpp"
 
 #include "Util/Log/Log.hpp"

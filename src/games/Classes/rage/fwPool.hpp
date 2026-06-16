@@ -1,5 +1,5 @@
 #pragma once
-#include "games/Classes/base/fwBasePool.hpp"
+#include "Games/Classes/base/fwBasePool.hpp"
 
 namespace rage {
 	template<class T>

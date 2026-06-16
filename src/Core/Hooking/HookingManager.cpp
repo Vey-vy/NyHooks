@@ -1,5 +1,5 @@
 #include "HookingManager.hpp"
-#include "games/Comp/Render/Render.hpp"
+#include "Games/Comp/Render/Render.hpp"
 
 void HookingManager::Initialize()
 {

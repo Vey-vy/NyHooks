@@ -1,7 +1,7 @@
 // #pragma once
 // #include "NativeInvoker.hpp"
-// #include "games/Ny.hpp"
-// #include "games/Classes/type.hpp"
+// #include "Games/Ny.hpp"
+// #include "Games/Classes/type.hpp"
 
 // namespace BLIP
 // {

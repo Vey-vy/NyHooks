@@ -1,6 +1,6 @@
 #pragma once
-#include "games/Ny.hpp"
-#include "games/Classes/rage/fwPool.hpp"
+#include "Games/Ny.hpp"
+#include "Games/Classes/rage/fwPool.hpp"
 
 class Pool : public NyBase
 {

@@ -1,7 +1,7 @@
 #pragma once
-#include "games/Ny.hpp"
+#include "Games/Ny.hpp"
 #include "Util/Log/Log.hpp"
-#include "games/Classes/script/scrNativeCallContext.hpp"
+#include "Games/Classes/script/scrNativeCallContext.hpp"
 
 class NativeCallContext : public rage::scrNativeCallContext
 {

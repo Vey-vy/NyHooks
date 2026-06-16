@@ -1,8 +1,8 @@
 #include "Exports.hpp"
-#include "games/Ny.hpp"
-#include "games/Comp/NativeInvoker/NativeInvoker.hpp"
-#include "games/Comp/ScriptManager/ScriptManager.hpp"
-#include "games/Comp/Pool/Pool.hpp"
+#include "Games/Ny.hpp"
+#include "Games/Comp/NativeInvoker/NativeInvoker.hpp"
+#include "Games/Comp/ScriptManager/ScriptManager.hpp"
+#include "Games/Comp/Pool/Pool.hpp"
 #include "Core/DirectX/DirectX.hpp"
 #include "Core/DirectX/Texture.hpp"
 

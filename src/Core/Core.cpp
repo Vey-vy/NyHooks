@@ -5,14 +5,14 @@
 #include "Core/Hooking/HookingManager.hpp"
 #include "Core/Memory/ModuleManager.hpp"
 #include "Util/Log/Log.hpp"
-#include "games/Ny.hpp"
-#include "games/Comp/NativeInvoker/NativeInvoker.hpp"
-#include "games/Comp/Render/Render.hpp"
-#include "games/Comp/ScriptManager/ScriptManager.hpp"
-#include "games/Comp/NativeInvoker/Natives.hpp"
-#include "games/Comp/Pool/Pool.hpp"
-#include "games/Comp/Txd/Txd.hpp"
-#include "games/Comp/File/File.hpp"
+#include "Games/Ny.hpp"
+#include "Games/Comp/NativeInvoker/NativeInvoker.hpp"
+#include "Games/Comp/Render/Render.hpp"
+#include "Games/Comp/ScriptManager/ScriptManager.hpp"
+#include "Games/Comp/NativeInvoker/Natives.hpp"
+#include "Games/Comp/Pool/Pool.hpp"
+#include "Games/Comp/Txd/Txd.hpp"
+#include "Games/Comp/File/File.hpp"
 
 void Core::Initialize()
 {
