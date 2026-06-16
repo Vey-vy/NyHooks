@@ -12,6 +12,7 @@
 #include "games/Comp/NativeInvoker/Natives.hpp"
 #include "games/Comp/Pool/Pool.hpp"
 #include "games/Comp/Txd/Txd.hpp"
+#include "games/Comp/File/File.hpp"
 
 void Core::Initialize()
 {
@@ -30,6 +31,7 @@ void Core::Initialize()
 	NyManager::Get()->AddComp<ScriptManager>();
 	NyManager::Get()->AddComp<Pool>();
 	NyManager::Get()->AddComp<Txd>();
+	//NyManager::Get()->AddComp<File>();
 
 	NyManager::Get()->ScanAll();
 	NyManager::Get()->Init();

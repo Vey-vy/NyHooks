@@ -38,6 +38,11 @@
 #include <backends/imgui_impl_dx9.h>
 #include <backends/imgui_impl_win32.h>
 
+#ifdef NY_EXPORTS
+#define NY_API __declspec(dllexport)
+#else
+#define NY_API __declspec(dllimport)
+#endif
 
 #define PROJECT_NAME "NyHooks"
 #define PROJECT_VERSION "1.0.0"
